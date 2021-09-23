@@ -15,5 +15,5 @@ This article aims to provide a full review over [Berry Dashboard](https://berryd
 * Section \#1 - **Berry Dashboard** General Presentation
 * Section \#2 - **How to compile** from sources
 * Section \#3 - Pages and Components provided by **Berry**
-* Section \#4 - **Full-stack** version [Berry React Node JS](https://appseed.us/product/react-node-js-berry-dashboard)
+* Section \#4 - **Full-stack** version [Berry React Node JS](https://appseed.us/product/react-node-js-berry-dashboard) 
 
